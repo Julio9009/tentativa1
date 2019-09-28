@@ -1,0 +1,19 @@
+body{background-image: url("imagem/fundo.jpg");
+ 
+ }
+p  {
+  color: white;
+  font-family: arial;
+  font-size: 100%;
+}
+th{
+	color:pink;
+    font-family: arial;
+    font-size: 200%;
+}
+h1{
+	color:white;
+	font-family: verdana;
+	font-size: 150%;
+
+}
