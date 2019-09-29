@@ -4,7 +4,12 @@ body{background-image: url("imagem/teste.jpg");
 p  {
   color: black;
   font-family: arial;
-  font-size: 80%;
+  font-size: 70%;
+}
+h4{color: black;
+  font-family: arial;
+  font-size: 150%;
+
 }
 th{
 	color:hotpink;
@@ -18,11 +23,16 @@ h1{
 
 }
 h2{
-	color:blue;
+	color:black;
 	font-family: verdana;
 	font-size: 200%;
 }
 
+h3{color: black;
+  font-family: arial;
+  font-size: 150%;
+
+}
 	.button {
   background-color: #FF3030;
   border: none;
@@ -30,7 +40,7 @@ h2{
   padding: 20px 20px;
   text-align: center ;
   text-decoration: none;
-  display: line-block;
+  display: block;
   font-size: 25px;
   margin: 1px 1px;
   cursor: pointer;
