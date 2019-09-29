@@ -1,8 +1,8 @@
-body{background-image: url("imagem/fundo.jpg");
- }
+body{background-image: url("imagem/teste.jpg");
  
+ }
 p  {
-  color: grey;
+  color: black;
   font-family: arial;
   font-size: 100%;
 }
@@ -18,7 +18,7 @@ h1{
 
 }
 h2{
-	color:hotpink;
+	color:grey;
 	font-family: verdana;
 	font-size: 90%;
 }
